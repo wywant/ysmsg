@@ -1,2 +1,0 @@
-Chrome
-https://mo-33c026f30.mo.sap.corp:13806/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html
