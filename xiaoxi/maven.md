@@ -12,5 +12,5 @@ http://tomcat.apache.org/maven-plugin-trunk/tomcat7-maven-plugin/run-mojo.html
 关闭服务器
 ##调试
 run maven goal tomcat7:run in debug mode
-目前JSP源代码查找还有些问题
+目前JSP源代码查找还有些问题 do some test
 

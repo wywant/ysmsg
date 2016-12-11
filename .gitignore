@@ -54,3 +54,8 @@ xiaoxi/afterOperation.txt
 xiaoxi/browser.txt
 xiaoxi/locateInput.txt
 xiaoxi/phoneNumber.txt
+xiaoxi/target/
+xiaoxi/.settings/
+xiaoxi/.project
+xiaoxi/.classpath
+xiaoxi/.project
